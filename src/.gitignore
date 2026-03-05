@@ -51,9 +51,3 @@ out/
 .env
 .env.*
 
-# Azure/ADO
-.azure-pipelines.yml
-*.azuredevops
-
-# Github
-.github/
